@@ -1,0 +1,6 @@
+date,brand,segment,region,channel,sales,units
+2023-01-01,BrandA,Whisky,West,B2B,125000,250
+2023-02-01,BrandA,Whisky,West,Retail,130000,260
+2023-01-01,BrandB,Spirit,East,Retail,80000,160
+2023-02-01,BrandB,Spirit,East,B2B,85000,170
+2023-03-01,BrandA,Whisky,West,Retail,140000,280
